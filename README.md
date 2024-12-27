@@ -1,2 +1,3 @@
-In this project, i have used some sensors to look towards the temperature, humidity, pressure and also added the rain sensor.we learned how to make a weather monitoring system with an ESP32 board. 
-For that, I have used the LDR sensor, DHT11 sensor, Rain sensor, and BMP-180 sensor. Therefore, we can get the Temperature, Humidity, Pressure, Light, and Rainfall values.
+Designed and implemented a weather monitoring system that integrates real-time dashboarding via an ESP32 board. 
+This board has been incorporated with different sensors, which include DHT11 to read temperature and humidity values, BMP-180 to detect atmospheric pressure,
+LDR for the intensity of light, and a rain sensor for rainfall detection. Blynk app supports display of sensor data.
